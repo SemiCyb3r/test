@@ -1,1 +1,1 @@
-(The Game)[https://semicyb3r.github.com/test/]
+(The Game)[https://semicyb3r.github.io/test/]
